@@ -6,14 +6,14 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [articles\best-practices-caching.md](https://github.com/OpenLocalizationTest/azuretest/blob/e41067dfc66225ff41d64efe3927d1531d4a61e8/articles/best-practices-caching.md) | HandedOffSuccess | [Details](#91791e07741d305634cea6aaeea38504df9138f26622)
+ [articles\best-practices-caching.md](https://github.com/OpenLocalizationTest/azuretest/blob/564f117df0f1535deaedbfd67d83cc6971df2400/articles/best-practices-caching.md) | HandedOffSuccess | [Details](#53a9a7c37e2eb16e13371eca9dc6052e780c681b6622)
 
 ## Item Details
-##### <a name='91791e07741d305634cea6aaeea38504df9138f26622'></a> Source: [articles\best-practices-caching.md](https://github.com/OpenLocalizationTest/azuretest/blob/e41067dfc66225ff41d64efe3927d1531d4a61e8/articles/best-practices-caching.md)
+##### <a name='53a9a7c37e2eb16e13371eca9dc6052e780c681b6622'></a> Source: [articles\best-practices-caching.md](https://github.com/OpenLocalizationTest/azuretest/blob/564f117df0f1535deaedbfd67d83cc6971df2400/articles/best-practices-caching.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [best-practices-caching.e5800df751eb0aab239d075ab6c58b592a5ff488.ja-jp.xlf](https://github.com/OpenLocalizationTest/azuretest.handoff/blob/cc4b161684103574b3e11ad252bdc3f43db33772/ol-handoff/OpenLocalizationTest/azuretest.ja-jp/performance/best-practices-caching.e5800df751eb0aab239d075ab6c58b592a5ff488.ja-jp.xlf)
-* Handoff Datetime: 2016-03-01 07:23:06
+* Handoff File: [best-practices-caching.e5800df751eb0aab239d075ab6c58b592a5ff488.ja-jp.xlf](https://github.com/OpenLocalizationTest/azuretest.handoff/blob/7fa5aff323085396e062b169b310b5e7cfd522d9/ol-handoff/OpenLocalizationTest/azuretest.ja-jp/performance/best-practices-caching.e5800df751eb0aab239d075ab6c58b592a5ff488.ja-jp.xlf)
+* Handoff Datetime: 2016-03-01 08:12:55
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
